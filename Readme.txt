@@ -9,6 +9,11 @@ git rm <file name>: delete file
 git commit -m "Desc"
 git branch <branch name>: create new branch
 git checkout <branch name>
+git show <commit hash>: show changes in commit
+git revert <commit hash>: undo changes (current head branch)
+git tag <tag name>: tag a commit
+git show <tag name>: show changes in a commit
+git remote add <connection short name> <url>
 
 https://www.vietnamairlines.com/vn/vi/support/customer-care/change-refund
 LXPILF
